@@ -37,3 +37,5 @@ Once provisioning is complete, access the deployed app via the ALB DNS:
 - AWS CLI configured
 - Terraform installed
 - Valid AWS credentials
+
+![Architecture Diagram](Architecture.png)
