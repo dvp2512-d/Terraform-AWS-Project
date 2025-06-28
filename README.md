@@ -40,7 +40,7 @@ Once provisioning is complete, access the deployed app via the ALB DNS:
 
 ![Architecture Diagram](Architecture.png)
 
-![Alt text for the image](Screenshot 14.png)
+![Repository Screenshot](Screenshot 14.png)
 
 ![Alt text for the image](Screenshot (15).png)
 
