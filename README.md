@@ -39,3 +39,15 @@ Once provisioning is complete, access the deployed app via the ALB DNS:
 - Valid AWS credentials
 
 ![Architecture Diagram](Architecture.png)
+
+![Alt text for the image](Screenshot (14).png)
+
+![Alt text for the image](Screenshot (15).png)
+
+![Alt text for the image](Screenshot (16).png)
+
+![Alt text for the image](Screenshot (17).png)
+
+![Alt text for the image](Screenshot (18).png)
+
+![Alt text for the image](Screenshot (19).png)
